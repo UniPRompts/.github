@@ -36,3 +36,11 @@ Se hai domande, suggerimenti o desideri entrare in contatto con la community Uni
 <!-- [Il nostro Canale Discord](#inserisci_link_discord) -->
 
 Grazie per essere parte di UniPRompts! Insieme possiamo rendere l'apprendimento universitario più accessibile e collaborativo per tutti gli studenti dell'Università di Parma.
+
+## Contributors
+
+<a href="https://github.com/UniPRompts/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=UniPRompts/.github" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
