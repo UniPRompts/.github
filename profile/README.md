@@ -1,6 +1,6 @@
 # unipr-orgs
 
-Benvenuto su *UniPRompts*, l'organizzazione GitHub dedicata a riunire gli studenti di Informatica dell'Università di Parma per creare una ricca e condivisa raccolta di appunti. 
+Benvenuto su *unipr-orgs*, l'organizzazione GitHub dedicata a riunire gli studenti di Informatica dell'Università di Parma per creare una ricca e condivisa raccolta di appunti. 
 Siamo entusiasti di darti il benvenuto nel nostro progetto collaborativo, dove ogni studente può contribuire e beneficiare dalla condivisione di conoscenze.
 
 ## Scopo dell'Organizzazione
@@ -55,15 +55,15 @@ Il titolo della pull request sarà: `"@{tuo_username}: Appunti lezione 26-02-202
 ## Contatti
 Se hai domande, suggerimenti o desideri entrare in contatto con la community UniPRompts, puoi farlo attraverso:
 
-- [La nostra Pagina GitHub](https://github.com/UniPRompts)
+- [La nostra Pagina GitHub](https://github.com/unipr-orgs)
 <!-- [Il nostro Canale Discord](#inserisci_link_discord) -->
 
-Grazie per essere parte di UniPRompts! Insieme possiamo rendere l'apprendimento universitario più accessibile e collaborativo per tutti gli studenti dell'Università di Parma.
+Grazie per essere parte di unipr-orgs! Insieme possiamo rendere l'apprendimento universitario più accessibile e collaborativo per tutti gli studenti dell'Università di Parma.
 
 ## Contributors
 
-<a href="https://github.com/UniPRompts/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=UniPRompts/.github" />
+<a href="https://github.com/unipr-orgs/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=unipr-orgs/.github" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
