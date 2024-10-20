@@ -49,8 +49,8 @@ Ecco un semplice elenco di linee guida da seguire per partecipare alla stesura d
 #### Esempio 
 Il primo argomento trattato a lezione è stato quello del significato di _"Hello, world!"_.  
 Il nome file sarà: `01-helloworld.md`.  
-Il titolo del commit sarà: `"@{tuo_username}: Aggiunti appunti lezione 01-helloworld"`.  
-Il titolo della pull request sarà: `"@{tuo_username}: Appunti lezione 26-02-2023"`.  
+Il titolo del commit sarà: `"Aggiunti appunti lezione 01-helloworld"`.  
+Il titolo della pull request sarà: `"Appunti lezione 26-02-2023"`.  
 
 
 ## Contatti
