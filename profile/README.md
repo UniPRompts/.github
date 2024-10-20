@@ -44,7 +44,6 @@ Ecco un semplice elenco di linee guida da seguire per partecipare alla stesura d
 7. Utilizzare il carattere `_` al posto degli "spazi" nel nome dei file.
 8. Utilizzare sempre la numerazione dei file nel nome (i numeri indicano l'ordine degli argomenti trattati a lezione).
 9. Nel file `.md` inserire sempre un indice dinamico (utilizzando il plugin) e un "ritorna all'indice" alla fine di ogni paragrafo / argomento.
-10. Nel titolo dei `commit` e della  `pull request`, oltre ad inserire il tema trattato, aggiungere anche il proprio username. Ad esempio il titolo di questa `pull request` sarà: `@{tuo_username}: Aggiornamento wiki`.
 
 #### Esempio 
 Il primo argomento trattato a lezione è stato quello del significato di _"Hello, world!"_.  
